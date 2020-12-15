@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ListView1</string>
+
+    <string-array name="sehirler1">
+        <item>Ankara</item>
+        <item>İstanbul</item>
+        <item>Trabzon</item>
+        <item>Van</item>
+        <item>Batman</item>
+    </string-array>
+
+</resources>
